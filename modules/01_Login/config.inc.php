@@ -1,0 +1,4 @@
+<?
+  $UseADLogin == true;
+
+?>
